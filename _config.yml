@@ -3,10 +3,10 @@ description: RSC Solutions Systems Integrations | Rural Onshore | Custom Applica
 theme: jekyll-theme-slate
 
 seo:
-	title: RSC Solutions Premiere Recruiting
-	description: Candidate acquisition center for direct placement and IT Solutions
-	url: https://rscsolutions.com
-	author: RSC Dev Team
-	twitter: 
-		username: RSCInc
-		card: summary
+    title: RSC Solutions Premiere Recruiting
+    description: Candidate acquisition center for direct placement and IT Solutions
+    url: https://rscsolutions.com
+    author: RSC Dev Team
+    twitter: 
+        username: RSCInc
+        card: summary
