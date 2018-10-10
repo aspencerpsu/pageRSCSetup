@@ -1,3 +1,13 @@
+---
+layout: default
+---
+<div id="main-wrapper" class="layout-main-wrapper clearfix">
+	<div id="banner" class="clearfix">
+		<div class="row clearfix mx-0">
+			Testing
+		</div>
+	</div>
+</div>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aspencerpsu/pageRSCSetup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
